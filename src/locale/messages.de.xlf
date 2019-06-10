@@ -26,6 +26,30 @@
         <note priority="1" from="description">A description for the under construction card.</note>
         <note priority="1" from="meaning">Card Descritpion</note>
       </trans-unit>
+      <trans-unit id="1e2e823a7b953252f25549c10261d3f7bb903694" datatype="html">
+        <source>Header works!</source>
+
+        <target>deHeader dework!</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/header/header.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+        <note priority="1" from="description">This is text paragraph within Header component</note>
+        <note priority="1" from="meaning">Header Component</note>
+      </trans-unit>
+      <trans-unit id="46c20fb543eb2eb3f8263b3e21aeb52326dbc4b3" datatype="html">
+        <source>OK</source>
+
+        <target>OK DE</target>
+
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/header/header.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">This is button within Header component</note>
+        <note priority="1" from="meaning">Header Component</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
